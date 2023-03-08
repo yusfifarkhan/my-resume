@@ -24,7 +24,7 @@ const Files = () => {
           <br />
           <div className="grid w-full grid-flow-col place-content-between gap-2 lg:place-content-start">
             <a
-              href="https://drive.google.com/file/d/1IIUM2-_SUXf9gQd_xzUqkcwFxLqaSelL/view?usp=sharing"
+              href="https://drive.google.com/file/d/1nCUqe8_EoFOdDpEoIYiev21Wd3gpKOEp/view?usp=share_link"
               target="_blank"
             >
               <button className="inline-flex w-fit items-center rounded bg-primary-500 py-2 px-4 text-base font-bold text-white hover:bg-primary-600">
