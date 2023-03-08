@@ -24,7 +24,7 @@ const Files = () => {
           <br />
           <div className="grid w-full grid-flow-col place-content-between gap-2 lg:place-content-start">
             <a
-              href="./src/assets/doc/EN CV - M YUSFI FARKHAN.pdf"
+              href="https://drive.google.com/file/d/1IIUM2-_SUXf9gQd_xzUqkcwFxLqaSelL/view?usp=sharing"
               target="_blank"
             >
               <button className="inline-flex w-fit items-center rounded bg-primary-500 py-2 px-4 text-base font-bold text-white hover:bg-primary-600">
@@ -33,7 +33,7 @@ const Files = () => {
               </button>
             </a>
             <a
-              href="./src/assets/doc/ID CV - M YUSFI FARKHAN.pdf"
+              href="https://drive.google.com/file/d/14iObK0niBCIe94MVitAuvmf6UYJV5Zvm/view?usp=share_link"
               target="_blank"
             >
               <button className="inline-flex w-fit items-center rounded bg-red-500 py-2 px-4 text-base font-bold text-white hover:bg-red-600">
