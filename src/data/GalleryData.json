@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "GoodGames",
-      "image": "./src/assets/gallery/content-1.jpg",
+      "image": "/assets/gallery/content-1.jpg",
 
       "type": "web",
       "outlink": "https://152235865101347-dts-final-project.netlify.app/"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "BreezyMovies",
-      "image": "./src/assets/gallery/content-2.jpg",
+      "image": "/assets/gallery/content-2.jpg",
 
       "type": "web",
       "outlink": "https://pair-20-dts-mini-project.netlify.app/"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Notelify",
-      "image": "./src/assets/gallery/content-3.jpg",
+      "image": "/assets/gallery/content-3.jpg",
 
       "type": "web",
       "outlink": "https://pair-20-dts-mini-project.netlify.app/"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "title": "Wedding Invitation ",
-      "image": "./src/assets/gallery/content-4.png",
+      "image": "/assets/gallery/content-4.png",
 
       "type": "web",
       "outlink": "https://github.com/yusfifarkhan/wdg-linda-riyan"
@@ -35,28 +35,28 @@
     {
       "id": 5,
       "title": "Facebook Fanspage Rebranding",
-      "image": "./src/assets/gallery/content-5.jpg",
+      "image": "/assets/gallery/content-5.jpg",
       "type": "graphic",
       "outlink": null
     },
     {
       "id": 6,
       "title": "Graduation Backdrop",
-      "image": "./src/assets/gallery/content-6.jpg",
+      "image": "/assets/gallery/content-6.jpg",
       "type": "graphic",
       "outlink": ""
     },
     {
       "id": 7,
       "title": "New student Admission campaign",
-      "image": "./src/assets/gallery/content-7.jpg",
+      "image": "/assets/gallery/content-7.jpg",
       "type": "video",
       "outlink": "https://youtu.be/wT87li1mfqk"
     },
     {
       "id": 8,
       "title": "School Introduction Video",
-      "image": "./src/assets/gallery/content-8.jpg",
+      "image": "/assets/gallery/content-8.jpg",
       "type": "video",
       "outlink": "https://youtu.be/8jogNV1mPCw"
     }

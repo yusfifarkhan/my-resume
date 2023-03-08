@@ -4,7 +4,7 @@ const HeroImage = () => {
   return (
     <div className="hidden lg:col-span-5 lg:mt-0 lg:grid">
       <img
-        src="/src/assets/Yusfi_Alpha02.png"
+        src="/assets/Yusfi_Alpha02.png"
         alt="profile"
         className="aspect-auto w-[55%] place-self-center"
       />
