@@ -16,7 +16,7 @@ const HeroText = () => {
       </p>
       <span className="inline-flex gap-3">
         <a
-          href="#"
+          href="#resume"
           className="mr-3 inline-flex items-center justify-center gap-4 rounded-lg bg-primary-700 px-5 py-3 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900"
         >
           Check My Resume!
