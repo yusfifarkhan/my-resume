@@ -9,7 +9,7 @@ const Files = () => {
     >
       <div className="flex max-w-screen-xl pt-6 pb-2 transition-all lg:px-28">
         <div className=" hidden bg-slate-200 dark:bg-slate-700 lg:inline-flex lg:basis-4/12">
-          <img src="./src/assets/doc/CV.png" alt="Example CV" />
+          <img src="/assets/doc/CV.png" alt="Example CV" />
         </div>
         <div className="w-full rounded-md bg-slate-200 p-4 dark:bg-slate-700 lg:basis-10/12  lg:rounded-none">
           <h1 className="text-lg font-bold dark:text-white lg:text-2xl">
