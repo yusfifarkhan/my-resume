@@ -2,7 +2,7 @@ import React from "react";
 
 const GalleryMenu = ({ cbSetKey, total }) => {
   return (
-    <div className="flex w-full place-items-center justify-between">
+    <div className="w-full flex-row place-items-center justify-between sm:flex">
       <div className="inline-flex">
         <button
           onClick={() => {

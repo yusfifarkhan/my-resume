@@ -10,10 +10,12 @@ const GalleryHeader = () => {
       <div className="text-base font-bold dark:text-white">
         Let's create something exciting.
       </div>
-      <button className="mr-3 inline-flex w-fit items-center justify-center gap-4 rounded-lg bg-primary-600 py-2 px-8 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
-        <FiPhoneCall />
-        <span>Hire Me</span>
-      </button>
+      <a href="tel:+6281390667626">
+        <button className="mr-3 inline-flex w-fit items-center justify-center gap-4 rounded-lg bg-primary-600 py-2 px-8 text-center text-base font-medium text-white hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
+          <FiPhoneCall />
+          <span>Hire Me</span>
+        </button>
+      </a>
     </div>
   );
 };

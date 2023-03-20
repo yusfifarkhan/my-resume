@@ -89,10 +89,6 @@ const Experiences = () => {
                 Organize, render and compress footage for client review and
                 footage distribution as requested.
               </li>
-              <li>
-                Membantu tim Kreatif dan Pemasaran dalam pengembangan dan
-                pengiriman konten sesuai jadwal.{" "}
-              </li>
             </ul>
           </div>
           <br />
