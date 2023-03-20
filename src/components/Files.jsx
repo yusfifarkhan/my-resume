@@ -24,7 +24,7 @@ const Files = () => {
           <br />
           <div className="grid w-full grid-flow-col place-content-between gap-2 lg:place-content-start">
             <a
-              href="https://drive.google.com/file/d/1nCUqe8_EoFOdDpEoIYiev21Wd3gpKOEp/view?usp=share_link"
+              href="https://drive.google.com/file/d/1lQuNoL-gsd0DovrFlSK8uGhEgWDkinpe/view?usp=share_link"
               target="_blank"
             >
               <button className="inline-flex w-fit items-center rounded bg-primary-500 py-2 px-4 text-base font-bold text-white hover:bg-primary-600">
@@ -33,18 +33,23 @@ const Files = () => {
               </button>
             </a>
             <a
-              href="https://drive.google.com/file/d/14iObK0niBCIe94MVitAuvmf6UYJV5Zvm/view?usp=share_link"
+              href="https://drive.google.com/file/d/1J-zrrCPfSmTsRH2tBfm09I657dPi0bGv/view?usp=share_link"
               target="_blank"
             >
               <button className="inline-flex w-fit items-center rounded bg-red-500 py-2 px-4 text-base font-bold text-white hover:bg-red-600">
                 <FaLanguage size={"24px"} /> &nbsp;
-                <span>ID Version</span>
+                <span>JP Version</span>
               </button>
             </a>
-            {/* <button className="text-grey-darkest inline-flex w-fit items-center rounded bg-slate-100 py-2 px-4 text-base font-bold text-red-600 hover:bg-slate-300">
-              <FaLanguage size={"24px"} /> &nbsp;
-              <span>JP Version</span>
-            </button> */}
+            <a
+              href="https://drive.google.com/file/d/14iObK0niBCIe94MVitAuvmf6UYJV5Zvm/view?usp=share_link"
+              target="_blank"
+            >
+              <button className="inline-flex w-fit items-center rounded bg-teal-500 py-2 px-4 text-base font-bold text-white hover:bg-teal-600">
+                <FaLanguage size={"24px"} /> &nbsp;
+                <span>JP ATF Version</span>
+              </button>
+            </a>
           </div>
         </div>
       </div>
